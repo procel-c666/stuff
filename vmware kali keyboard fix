@@ -1,0 +1,4 @@
+edit ****.vmx
+virtualHW.version = "19" ---> set to 19
+set number of process to 1 and core per processor to 6
+settings---->processor---->virtualize iommu
